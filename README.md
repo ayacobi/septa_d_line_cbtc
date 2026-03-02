@@ -3,6 +3,7 @@ An investigation into how CBTC is affecting the SEPTA D Line and what its conseq
 
 ## Substack
 Please follow along my investigation on [Substack](https://adenyacobi.substack.com/). 
+- [Part 1](https://adenyacobi.substack.com/p/septa-slow-down-on-the-d-lines-part) is out!
 
 ## File Structure
 - **input**: The data files used for the analyses. These are zip files so they can be stored on GitHub. To run the code, you will need to unzip them. Note that `Network Dataset.zip` (which holds GTFS files and Open Street Map file) and `Census TIGER Line Shapefiles.zip` (which holds shapefiles of Pennsylvania block groups) are not currently uploaded because their file sizes are too large. I will work on getting this data uploaded. Until then, `3_accessibility.R` will not be able to be run unless you provide the data.
