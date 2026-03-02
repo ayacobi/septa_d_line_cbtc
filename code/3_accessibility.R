@@ -258,9 +258,9 @@ credits <- paste0("Note: Isochrone created using Conveyal R\U2075 algorithm. ",
                   "less than or\nequal to 45 minutes, the census block is ",
                   "considered accessible from the origin. A small part of the ",
                   "change in\naccessibility is caused by new bus schedules, ",
-                  "which rolled out at the same time as CBTC was activated ",
-                  "onthe D1 and\nD2. One consequence of this is that some ",
-                  "some blocks became more accessible.\n",
+                  "which rolled out at the same time CBTC was activated ",
+                  "on the D1 and\nD2. One consequence of this is that some ",
+                  "some census blocks became more accessible.\n",
                   "Source: SEPTA, US Census Bureau, Esri | Map: Aden Yacobi")
 
 # Function to map change in access from origin point.
